@@ -5,4 +5,3 @@ Git tracks changes.
 Creating a new branch dev.
 Creating a new branch is quick and simple.
 hello world
-add message
